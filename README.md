@@ -1,0 +1,2 @@
+# Spammer-Grab
+Spams GAC (Grab Activation Code) SMS to a phone number repeatedly per 60 second. [Spammer] uses Grab passenger API to make the GAC sms sent. Installation : $ apt update &amp;&amp; apt upgrade $ apt install git $ apt install python2 $ apt install python $ git clone https://github.com/Noxturnix/Spammer-Grab $ cd Spammer-Grab $ chmod +x * $ ./auto-install.sh Run : python2 spammer.py -h It shows all the options of this tool for use.. use : $ python2 spammer.py --delay 10 [Your number here] Now it will start bombing on your given number
